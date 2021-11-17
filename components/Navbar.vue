@@ -1,7 +1,7 @@
 <template>
 <div class="nav">
   <div class="navBar flex">
-    <h1 class="flex-1">Investment Opportunities (3)</h1>
+    <h1 class="flex-1 title">Investment Opportunities (3)</h1>
     <div class="w-60 imgs">
       <img src="../static/Oval.png" /><span>Thomas Miller</span>
       <img class="notification" src="../static/notification.png" />
@@ -11,10 +11,13 @@
     <hr class="hr">
   </div>
 </template>
-<style>
+<style >
 .navBar {
   height: 52px;
   background-color: #F4F7F9;
+}
+.title{
+  margin-left: 25px;
 }
 h1 {
   padding-top: 13px;
