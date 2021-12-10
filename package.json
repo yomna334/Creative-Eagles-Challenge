@@ -12,7 +12,7 @@
     "axios": "^0.24.0",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7",
-    "windicss-webpack-plugin": "^1.5.6"
+    "windicss-webpack-plugin": "^1.6.0"
   },
   "devDependencies": {
     "nuxt-windicss": "^2.0.9"
